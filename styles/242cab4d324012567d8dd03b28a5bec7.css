@@ -1068,7 +1068,7 @@ strong {
 }
 
 a {
-    color: #f1c763;
+    color: #45a29e;
     text-decoration: none
 }
 
@@ -3585,7 +3585,7 @@ body.mobile-menu-open {
     left: 0;
     /* background: #00496e; */
     /* background: #673ab7; */
-    background: #f2a900;
+    background: #45a29e;
     z-index: 10000;
     transition: all .4s ease
 }
@@ -4397,7 +4397,7 @@ body .swiftype-widget .autocomplete li.active p {
 #footer {
     width: 100%;
     /* background: #00496e; */
-    background: #f2a900;
+    background: #45a29e;
     color: #fff;
     font-size: 13px;
     font-family: "museo-sans", sans-serif
